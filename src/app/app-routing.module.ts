@@ -4,12 +4,7 @@ import { HeaderComponent } from './components/header/header.component'
 
 
 const routes: Routes = [
-  {
-    path: '',
-    pathMatch: 'testing',
-    component: HeaderComponent
-  },
-
+ 
 ];
 
 @NgModule({
