@@ -4,3 +4,20 @@
     height: 100vh;
     background-color: lightblue;
 }
+
+.jumbotron { 
+    background-color:cadetblue; 
+    color: #ffffff;
+    text-align: center;
+    padding: 100px
+}
+
+.jumbotron:hover { 
+    background-color:greenyellow; 
+    color: gray;
+}
+
+
+
+
+
